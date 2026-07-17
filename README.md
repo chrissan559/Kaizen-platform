@@ -1,0 +1,2 @@
+# Kaizen-platform
+kaizen-platform/ │ ├── .github/ │   └── workflows/ │       ├── ci.yml │       └── deploy.yml │ ├── apps/ │   ├── web/ │   └── admin/ │ ├── packages/ │   ├── database/ │   ├── auth/ │   ├── payments/ │   ├── commissions/ │   ├── ui/ │   ├── analytics/ │   └── shared/ │ ├── supabase/ │   ├──
